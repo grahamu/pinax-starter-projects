@@ -1,0 +1,8 @@
+@import "overrides";
+
+// ~ uses paths in node_modules based on default webpack configuration
+@import "~bootstrap/scss/bootstrap.scss";
+@import "~font-awesome/scss/font-awesome.scss";
+
+// Site overrides
+@import "custom";
