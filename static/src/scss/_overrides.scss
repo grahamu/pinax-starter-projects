@@ -4,3 +4,5 @@ $icon-font-path: "~bootstrap/fonts/";
 $font-family-sans-serif:  "Helvetica Neue", Helvetica, Arial, sans-serif;
 $font-family-serif:       Georgia, "Times New Roman", Times, serif;
 $font-family-monospace:   Menlo, Monaco, Consolas, "Courier New", monospace;
+
+$enable-flex: false;  // set to true for flexbox which isn't supported on some lower versions of IE
